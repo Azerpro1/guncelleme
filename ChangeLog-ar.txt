@@ -1,23 +1,23 @@
 {"version_code":451209,"content":"
-<p>تحديث 6.65</p>
+<p>version 6.65</p>
 
-<li> التحديث لنسخة الماركت 2.18.327</li>
-<li> تفعيل ميزة الملصقات يمكنك الآن تنزيل الملصقات المعبرة واستخدامها في الدردشات</li>
-<li> (حصرياً) إضافة اشارة في حال قام احد ما بعمل منشن @ لك او رد على رسائلك في المجموعة</li>
-<li> (حصرياً) لن تظهر معاد توجيهها عند الطرف الاخر في حال قمت بعمل اعادة توجيه لرسالة ما</li>
-<li> تم تطوير ميزة إيقاف استقبال المكالمات بحيث يمكنك ايقافها بدون ان يظهر للطرف الاخر ان هاتفك يرن وييظهر له جاري الاتصال</li>
-<li> (حصرياً) إضافة الخيار رقم 1.2.2 يمكنك نسخ جزء من اي رسالة بسهولة</li>
-<li> بإمكانك الآن تمرير الرسالة من اليسار إلى اليمين للرد عليها</li>
-<li> تفعيل ميزة حفظ مكان القراءة حيث عند فتح محادثة سابقة توقفت فيها عند كلمة معينة سوف تظهر مباشرة عند الدخول الى المحادثة مرة أخرى</li>
-<li> ‏تفعيل ميزة المكالمات الجماعية</li>
-<li> تفعيل ميزة صورة داخل الصورة</li>
-<li> إضافة الخيار رقم 6.8 لتعيين المدة لإشعار بعد الضغط على الرسائل المحذوفة</li>
-<li> دعم تغيير ثيم قسم الملصقات</li>
-<li> إزالة الحد الأدني لعمل إعادة توجية لمستخدمين دولة الهند</li>
-<li> إصلاح مشكلة ظهور المحادثات المخفية من خلال شاشة المكالمات</li>
-<li> إصلاح مشكلة  الخيار 6.15 صورة مربعة</li>
-<li> إصلاح مشكلة البحث عن الثيمات</li>
-<li> إصلاحات أخرى</li>
+<li> Baza versiya 2.18.327</li>
+<li> Stickerler elave edildi</li>
+<li> Azerbaycan dili</li>
+<li> AzerPro MoDs</li>
+<li> Resmi yenileme</li>
+<li> (1.2.2) mod elave edildi</li>
+<li> Birbirinden gozel ikonlar</li>
+<li> Meni izleyin cox gozel yenilemeler olacaq</li>
+<li> ‏Zeng problemi hell oldu</li>
+<li> Sizler ucun AzerPro</li>
+<li> 6.8 Modu elave edildi</li>
+<li> ALLAH amaninda sagolun</li>
+<li> ALLAH tekdir ondan qeyrisi yoxdur;)</li>
+<li> Sizleri sevirem</li>
+<li> 6.15 mod elave edildiة</li>
+<li> Tesekkur</li>
+<li> Modded by AzerPro</li>
 
 <li> New Base Updated to 2.18.327</li>
 <li> Enabled Stickers</li>
@@ -35,5 +35,5 @@
 <li> Fixed Search in Themes</li>
 <li> Many Other Fixes</li>
 
-","url":"https://www.gbmods.co/?p=19"
+","url":"http://wplusyukle.com/whatsapp-plus"
 }
