@@ -1,9 +1,9 @@
 {"version_code":451209,"content":"
 <p>version 6.65</p>
 
-<li> Baza versiya 2.18.327</li>
-<li> Stickerler elave edildi</li>
-<li> Azerbaycan dili</li>
+<li> Baza yenilendi versiya 2.18.327</li>
+<li> Stickerler aktiv olundu</li>
+<li> Azerbaycan dili elave edilib elbetdeki AzerPro terefinden</li>
 <li> AzerPro MoDs</li>
 <li> Resmi yenileme</li>
 <li> (1.2.2) mod elave edildi</li>
@@ -35,5 +35,5 @@
 <li> Fixed Search in Themes</li>
 <li> Many Other Fixes</li>
 
-","url":"http://wplusyukle.com/whatsapp-plus"
+","url":"http://wplusyukle.com/gbwhatsapp/"
 }
