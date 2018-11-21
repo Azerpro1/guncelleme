@@ -1,4 +1,3 @@
-{'ver1':'6', 'ver2':'66'}
 {"version_code":451209,"content":"
 <p>version 6.66</p>
 
