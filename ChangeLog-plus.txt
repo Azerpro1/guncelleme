@@ -1,6 +1,6 @@
 {"version_code":451209,"content":"
-<p>versiya: 6.65</p>
-<p>V6.65</p>
+<p>versiya: 6.70</p>
+<p>V6.70</p>
 <br/>
 <li> AzerPro MoDs</li>
 <br/>
