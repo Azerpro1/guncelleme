@@ -2,7 +2,7 @@
 <p>versiya: 6.70</p>
 <p>V6.70</p>
 <br/>
-<li> AzerPro MoDs</li>
+<li> wplusyukle.com update service</li>
 <br/>
 <li> New Base Updated to 2.18.327</li>
 <br/>
