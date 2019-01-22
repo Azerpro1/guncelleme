@@ -4,27 +4,27 @@
 <br/>
 <li> wplusyukle.com update service</li>
 <br/>
-<li> New Base Updated to -.--.---</li>
+<li> New Base Updated to 2.18.---</li>
 <br/>
-<li> Enabled Stickers</li>
+<li> İndi əlavə edildikdə PlayStore'dan hər hansı bir paketə Etiket əlavə edə bilərsiniz</li>
 <br/>
-<li> Add the option to download a variety of stickers in Plus settings (more will be added soon)</li>
+<li> Yeni Şriftlər əlavə edildi</li>
 <br/>
-<li> Exclusive No More Forward Tag to Opposite Person even if you forward</li>
+<li> Yeni Launcher Icons əlavə edildi</li>
 <br/>
-<li> Exclusive @mention Icon on Main Screen to easily Know where you are tagged</li>
+<li> Gizli Sohbetler üçün Üstbilgiyi Klikləyin Əlavə Seçim (Mod 6.21)</li>
 <br/>
-<li> Exclusively Improved Option to Block Calls with/without Showing Ringing to Opp Person.</li>
+<li> İndi əlavə etdiyiniz ismarıcları düzəldə bilərsiniz (ən yeni / ən qədim)</li>
 <br/>
-<li> Exclusively Added New Option to Select Part Message (Mod 1.2.2)</li>
+<li> Qrup Sohbetinde Çağrı Yapıldığında Onayla Sohbet Açıldı</li>
 <br/>
-<li> Enabled Swipe To Reply</li>
+<li> 25 ilə 30 arasında Pin Chatları artdı</li>
 <br/>
-<li> Enabled Group Calls</li>
+<li> Avtomatik Cavab / Mesaj Planlayıcısında 2-dən çox kontakt seçin zaman Sabit Force Close</li>
 <br/>
-<li> Increased Forward Limit for Indian Users</li>
+<li> Android Oreo və Pie-də Sabit Change App Language</li>
 <br/>
-<li> Added Option to Set Duration for Revoked Message Notification (Mod 6.8)</li>
+<li> Sabit Qrup Məlumatında Əlaqələrə Əlavə etmə Zamanında Göndərilən Mesajları Göstər</li>
 <br/>
 <li> Added Themed Stickers Tab</li>
 <br/>
