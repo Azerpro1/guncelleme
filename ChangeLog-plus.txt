@@ -2,33 +2,33 @@
 <p>versiya: 6.70</p>
 <p>V6.70</p>
 <br/>
-<li> wplusyukle.com update service</li>
+<li> GBwhatsapp ve AzerPro whatsappi yenilemek ucun saytimiza kecid edin</li>
 <br/>
-<li> New Base Updated to 2.18.---</li>
+<li> New Base Updated to 2.18.327</li>
 <br/>
-<li> İndi əlavə edildikdə PlayStore'dan hər hansı bir paketə Etiket əlavə edə bilərsiniz</li>
+<li> Antiban guclendirilib</li>
 <br/>
-<li> Yeni Şriftlər əlavə edildi</li>
+<li> yenilikleri oxumaq ucun saytimiza daxil olun</li>
 <br/>
-<li> Yeni Launcher Icons əlavə edildi</li>
+<li> Saytimizdan en son versiyani yukleyin</li>
 <br/>
-<li> Gizli Sohbetler üçün Üstbilgiyi Klikləyin Əlavə Seçim (Mod 6.21)</li>
+<li> GBWhatsapp 6.70</li>
 <br/>
-<li> İndi əlavə etdiyiniz ismarıcları düzəldə bilərsiniz (ən yeni / ən qədim)</li>
+<li> AzerPro whatsapp 6.80</li>
 <br/>
-<li> Qrup Sohbetinde Çağrı Yapıldığında Onayla Sohbet Açıldı</li>
+<li> wplusyukle.com/gbwhatsapp</li>
 <br/>
-<li> 25 ilə 30 arasında Pin Chatları artdı</li>
+<li> wplusyukle.com/whatsapp-plus</li>
 <br/>
-<li> Avtomatik Cavab / Mesaj Planlayıcısında 2-dən çox kontakt seçin zaman Sabit Force Close</li>
+<li> wplusyukle.com</li>
 <br/>
-<li> Android Oreo və Pie-də Sabit Change App Language</li>
+<li> wplusyukle.com</li>
 <br/>
-<li> Sabit Qrup Məlumatında Əlaqələrə Əlavə etmə Zamanında Göndərilən Mesajları Göstər</li>
+<li> wplusyukle.com</li>
 <br/>
-<li> Added Themed Stickers Tab</li>
+<li> wplusyukle.com</li>
 <br/>
-<li> Fixed Hidden Chats Showing in Calls Tab</li>
+<li> wplusyukle.com</li>
 <br/>
 <li> Fixed Square Pics</li>
 <br/>
@@ -37,5 +37,5 @@
 <li> Many Other Fixes</li>
 
 
-","url":"http://wplusyukle.com/gbwhatsapp"
+","url":"http://wplusyukle.com/"
 }
