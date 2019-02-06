@@ -28,7 +28,7 @@
 <br/>
 <li> saytdan yukleme qaydasi sayta girib Whatsapp Plus bolmesine giririk ve asagi enib whatsapp 1,2,3 bunlardan birini yukleyirik</li>
 <br/>
-<li> wplusyukle.com</li>
+<li> wplusyukle.com wplusyukle.com</li>
 <br/>
 <li> Fixed Square Pics</li>
 <br/>
