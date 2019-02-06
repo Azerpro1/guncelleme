@@ -1,14 +1,14 @@
 {"version_code":451209,"content":"
-<p>versiya: 6.70</p>
-<p>V6.70</p>
+<p>versiya: 6.80</p>
+<p>V6.80</p>
 <br/>
 <li> GBwhatsapp ve AzerPro whatsappi yenilemek ucun saytimiza kecid edin</li>
 <br/>
-<li> New Base Updated to 2.18.327</li>
+<li> New Base Updated to 2.18.385</li>
 <br/>
-<li> Antiban guclendirilib</li>
+<li> Antiban guclendirilib nomreniz sade whatsapp terefinden blok edilmir yeni baglanmir</li>
 <br/>
-<li> yenilikleri oxumaq ucun saytimiza daxil olun</li>
+<li> yeni versiyamizda stabil baza isletmishik</li>
 <br/>
 <li> Saytimizdan en son versiyani yukleyin</li>
 <br/>
@@ -16,15 +16,15 @@
 <br/>
 <li> AzerPro whatsapp 6.80</li>
 <br/>
-<li> wplusyukle.com/gbwhatsapp</li>
+<li> GBwhatsappucun link wplusyukle.com/gbwhatsapp</li>
 <br/>
-<li> wplusyukle.com/whatsapp-plus</li>
+<li> AzerPro ucun link wplusyukle.com/whatsapp-plus</li>
 <br/>
-<li> wplusyukle.com</li>
+<li> ALLAH tekdir ondan qeyrisi yoxdur;)</li>
 <br/>
-<li> wplusyukle.com</li>
+<li> Saytimiz pulsuzdu hemcininde Proqramimiz kef ele:)</li>
 <br/>
-<li> wplusyukle.com</li>
+<li> Made in AzerPro</li>
 <br/>
 <li> wplusyukle.com</li>
 <br/>
