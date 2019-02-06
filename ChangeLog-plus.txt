@@ -37,5 +37,5 @@
 <li> Many Other Fixes</li>
 
 
-","url":"http://wplusyukle.com/"
+","url":"http://wplusyukle.com/whatsapp-plus"
 }
