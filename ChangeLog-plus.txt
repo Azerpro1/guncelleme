@@ -2,7 +2,7 @@
 <p>versiya: 6.80</p>
 <p>V6.80</p>
 <br/>
-<li> GBwhatsapp ve AzerPro whatsappi yenilemek ucun saytimiza kecid edin</li>
+<li> AzerPro whatsappi yenilemek ucun saytimiza kecid edin</li>
 <br/>
 <li> New Base Updated to 2.18.385</li>
 <br/>
@@ -12,11 +12,11 @@
 <br/>
 <li> Saytimizdan en son versiyani yukleyin</li>
 <br/>
-<li> GBWhatsapp 6.70</li>
+<li> AzerPro Whatsapp Bayraqli whatsapp</li>
 <br/>
 <li> AzerPro whatsapp 6.80</li>
 <br/>
-<li> GBwhatsappucun link wplusyukle.com/gbwhatsapp</li>
+<li> Yenilemek ucun asagidan yenileyin</li>
 <br/>
 <li> AzerPro ucun link wplusyukle.com/whatsapp-plus</li>
 <br/>
