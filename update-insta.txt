@@ -1,39 +1,30 @@
-{"version_code":451209,"content":"
-<p>Versiya 6.65</p>
+{"version_code":7,"content":"
+<p>versiya 1.60</p>
 
-<li> Baza versiyasi 2.18.327</li>
-<li> تفعيل ميزة الملصقات يمكنك الآن تنزيل الملصقات المعبرة واستخدامها في الدردشات</li>
-<li> (حصرياً) إضافة اشارة في حال قام احد ما بعمل منشن @ لك او رد على رسائلك في المجموعة</li>
-<li> (حصرياً) لن تظهر معاد توجيهها عند الطرف الاخر في حال قمت بعمل اعادة توجيه لرسالة ما</li>
-<li> تم تطوير ميزة إيقاف استقبال المكالمات بحيث يمكنك ايقافها بدون ان يظهر للطرف الاخر ان هاتفك يرن وييظهر له جاري الاتصال</li>
-<li> (حصرياً) إضافة الخيار رقم 1.2.2 يمكنك نسخ جزء من اي رسالة بسهولة</li>
-<li> بإمكانك الآن تمرير الرسالة من اليسار إلى اليمين للرد عليها</li>
-<li> تفعيل ميزة حفظ مكان القراءة حيث عند فتح محادثة سابقة توقفت فيها عند كلمة معينة سوف تظهر مباشرة عند الدخول الى المحادثة مرة أخرى</li>
-<li> ‏تفعيل ميزة المكالمات الجماعية</li>
-<li> تفعيل ميزة صورة داخل الصورة</li>
-<li> إضافة الخيار رقم 6.8 لتعيين المدة لإشعار بعد الضغط على الرسائل المحذوفة</li>
-<li> دعم تغيير ثيم قسم الملصقات</li>
-<li> إزالة الحد الأدني لعمل إعادة توجية لمستخدمين دولة الهند</li>
-<li> إصلاح مشكلة ظهور المحادثات المخفية من خلال شاشة المكالمات</li>
-<li> إصلاح مشكلة  الخيار 6.15 صورة مربعة</li>
-<li> إصلاح مشكلة البحث عن الثيمات</li>
+<li> التحديث لنسخة الماركت 71.0.0.18.102</li>
+<li> يمكنك الاتصال صوت وصورة</li>
+<li> يمكنك استخدام منصة IGTV للفيديوهات</li>
+<li> يمكنك طلب شارة التحقق الزرقاء لملف الشخصي</li>
+<li> يمكنك طرح الأسئلة في القصة(الستوري)</li>
+<li> يمكنك عمل منشن أو تاق في القصة(الستوري)</li>
+<li> يمكنك إضافة مقطع موسيقي في القصة (الستوري)</li>
+<li> يمكنك تمييز المحادثات في قسم الخاص</li>
+<li> تفعيل ميزة حالة النشاط (آخر ظهور) لمعرفة تواجد الاصدقاء المتصلين في البرنامج</li>
+<li> إصلاح الانهيار عند محاولة تحميل صورة او فيديو</li>
+<li> إصلاح لون الفقاعات في المحادثة عند الرد على الستوري</li>
+<li> إصلاح بعض الالوان بعد الضغط على اي منشور في قسم البحث</li>
 <li> إصلاحات أخرى</li>
 
-<li> New Base Updated to 2.18.327</li>
-<li> Enabled Stickers</li>
-<li> Exclusive No More Forward Tag to Opposite Person even if you forward</li>
-<li> Exclusive @mention Icon on Main Screen to easily Know where you are tagged</li>
-<li> Exclusively Improved Option to Block Calls with/without Showing Ringing to Opp Person.</li>
-<li> Exclusively Added New Option to Select Part Message (Mod 1.2.2)</li>
-<li> Enabled Swipe To Reply</li>
-<li> Enabled Group Calls</li>
-<li> Increased Forward Limit for Indian Users</li>
-<li> Added Option to Set Duration for Revoked Message Notification (Mod 6.8)</li>
-<li> Added Themed Stickers Tab</li>
-<li> Fixed Hidden Chats Showing in Calls Tab</li>
-<li> Fixed Square Pics</li>
-<li> Fixed Search in Themes</li>
-<li> Many Other Fixes</li>
+<li> New Base Updated to 71.0.0.18.102</li>
+<li> Added Support for IGTV</li>
+<li> Added Video Calls</li>
+<li> You can make a chat favourite</li>
+<li> Now can Add Voice Note in Story</li>
+<li> Now can Add Tag in Story</li>
+<li> Fixed Bubble Color when Reply to Story</li>
+<li> Fixed Themes after Viewing Post in Search</li>
+<li> Fixed Crash when Click on Download/Preview</li>
+<li> Many More Fixes</li>
 
-","url":"https://wplusyukle.com"
+","url":"http://wplusyukle.com"
 }
