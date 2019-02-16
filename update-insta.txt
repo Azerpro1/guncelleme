@@ -1,4 +1,4 @@
-{"version_code":7,"content":"
+{"version_code":5,"content":"
 <p>versiya 1.50</p>
 
 <li> bu versiya AzerPro Mods terefinden modifikasiya edilmisdir</li>
