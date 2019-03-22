@@ -1,16 +1,16 @@
 {"version_code":451210,"content":"
-<p>versiya: 6.80</p>
-<p>V6.80</p>
+<p>versiya: 6.85</p>
+<p>V6.85</p>
 <br/>
 <li> AzerPro whatsappi yenilemek ucun saytimiza kecid edin</li>
 <br/>
 <li> New Base Updated to 2.18.385</li>
 <br/>
-<li> Antiban guclendirilib nomreniz sade whatsapp terefinden blok edilmir yeni baglanmir</li>
+<li> Antiban guclendirilib nomreniz  whatsapp inc terefinden blok edilmir yeni baglanmir</li>
 <br/>
 <li> yeni versiyamizda stabil baza isletmishik</li>
 <br/>
-<li> Saytimizdan en son versiyani yukleyin</li>
+<li> Yeni emojiler elave edilib</li>
 <br/>
 <li> AzerPro Whatsapp Bayraqli whatsapp</li>
 <br/>
@@ -28,7 +28,7 @@
 <br/>
 <li> saytdan yukleme qaydasi sayta girib Whatsapp Plus bolmesine giririk ve asagi enib whatsapp 1,2,3 bunlardan birini yukleyirik</li>
 <br/>
-<li> wplusyukle.com wplusyukle.com</li>
+<li> *****</li>
 <br/>
 <li> Fixed Square Pics</li>
 <br/>
