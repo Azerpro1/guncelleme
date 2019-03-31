@@ -1,6 +1,6 @@
-{"version_code":451211,"content":"
-<p>versiya: 6.85</p>
-<p>V6.85</p>
+{"version_code":451212,"content":"
+<p>versiya: 6.90</p>
+<p>V6.90</p>
 <br/>
 <li> AzerPro whatsappi yenilemek ucun saytimiza kecid edin</li>
 <br/>
