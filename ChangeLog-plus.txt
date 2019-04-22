@@ -1,40 +1,48 @@
-{"version_code":451212,"content":"
-<p>versiya: 6.90</p>
-<p>V6.90</p>
+{"version_code":451213,"content":"
+<p>versiya: 6.95</p>
+<p>V6.95</p>
 <br/>
 <li> AzerPro whatsappi yenilemek ucun saytimiza kecid edin</li>
 <br/>
-<li> New Base Updated to 2.18.385</li>
+<li> Təzə baza 2.19.17</li>
 <br/>
-<li> Antiban guclendirilib nomreniz  whatsapp inc terefinden blok edilmir yeni baglanmir</li>
+<li> Təzə emojilər əlavə edildi (evvelki xətalar düzəldilib)</li>
 <br/>
-<li> Son istifade vaxti uzadilib</li>
+<li> Təzə yazı stilləri əlavə edilib</li>
 <br/>
-<li> Tema problemi hell edilib</li>
+<li> Təzə başladici ikonlar elave edildi</li>
 <br/>
-<li> AzerPro MoDs istifadecilerin nezerine whatsapp+3 6.90 da versiya kodunda sehv olmusdur deye saytdaki linki yeniledik muveqqeti narahatliga gore uzr isdeyirik</li>
+<li> Təzə qurup zəngi əlavə edildi</li>
 <br/>
-<li> AzerPro whatsapp larini fb da paylasmaq ucun wplusyukle.com/azerpro/</li>
+<li> Əlavə mediyani sil bunun ucun Lazımi proqramimizi yukleyin</li>
 <br/>
-<li> Yenilemek ucun asagidan yenileyin</li>
+<li> Play store də ki stikerləri qurmaq olur</li>
 <br/>
-<li> AzerPro ucun link wplusyukle.com/whatsapp-plus</li>
+<li> Əlavə Cavab Özəl zaman qruplarda seçin Message Qruplar</li>
 <br/>
-<li> ALLAH tekdir ondan qeyrisi yoxdur;)</li>
+<li> Təzə gizli söhbətlər üçün üst bilgini kilidləyin  (Mod 6.21)</li>
 <br/>
-<li> Saytimiz pulsuzdu hemcininde Proqramimiz kef ele:)</li>
+<li> Təzə indi göndərilən mesajlari (yeni/köhnə) göndərə bilərsiniz</li>
 <br/>
-<li> AzerPro MoDs</li>
+<li> Təzə Qrup Sohbetinde Çağrı Yapıldığında Təstiqləmə Dialogu</li>
 <br/>
-<li> saytdan yukleme qaydasi sayta girib Whatsapp Plus bolmesine giririk ve asagi enib whatsapp 1,2,3 bunlardan birini yukleyirik</li>
+<li> Təzə 25 ilə 30 arasında Pin Chatları artdı</li>
 <br/>
-<li> *****</li>
+<li> Temalarda axtarış zamanı problem hell oldu</li>
 <br/>
-<li> Fixed Square Pics</li>
+<li> Avtomatik Cavab / Mesaj Planlayıcısında 2-dən çox kontakt seçin zaman baglanma xetasi duzeldildi</li>
 <br/>
-<li> Fixed Search in Themes</li>
+<li> Android Oreo və Pie-də Sabit Program dili  xetasi hell oldu</li>
 <br/>
-<li> Many Other Fixes</li>
+<li> Sabit Qrup Məlumatında Əlaqələrə Əlavə etmə Zamanında göndərilən Mesajları Göstər problemi duzeldildi</li>
+<br/>
+<li> Tema serveri yenilendi daha hami temalardan rahat isdifade ede bilecek ( bunun üçün tema proqramimizi yukleyin)</li>
+<br/>
+<li> Antiban yenilendi</li>
+<br/>
+<li> ALLAH tekdir ondan qeyrisi yoxdur ;)</li>
+<br/>
+<li> Digər düzəlişlər</li>
 
 
 ","url":"http://wplusyukle.com/whatsapp-plus"
