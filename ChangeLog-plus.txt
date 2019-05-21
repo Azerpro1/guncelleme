@@ -1,6 +1,6 @@
-{"version_code":451213,"content":"
-<p>versiya: 6.95</p>
-<p>V6.95</p>
+{"version_code":451214,"content":"
+<p>versiya: 7.00</p>
+<p>V7.00</p>
 <br/>
 <li> AzerPro whatsappi yenilemek ucun saytimiza kecid edin</li>
 <br/>
@@ -8,35 +8,35 @@
 <br/>
 <li> Təzə emojilər əlavə edildi (evvelki xətalar düzəldilib)</li>
 <br/>
-<li> Təzə yazı stilləri əlavə edilib</li>
+<li> 100% Antiban</li>
 <br/>
-<li> Təzə başladici ikonlar elave edildi</li>
+<li> AzerPro</li>
 <br/>
-<li> Təzə qurup zəngi əlavə edildi</li>
+<li> AzerPro</li>
 <br/>
-<li> Əlavə mediyani sil bunun ucun Lazımi proqramimizi yukleyin</li>
+<li> AzerPro</li>
 <br/>
-<li> Play store də ki stikerləri qurmaq olur</li>
+<li> AzerPro</li>
 <br/>
-<li> Əlavə Cavab Özəl zaman qruplarda seçin Message Qruplar</li>
+<li> AzerPro</li>
 <br/>
-<li> Təzə gizli söhbətlər üçün üst bilgini kilidləyin  (Mod 6.21)</li>
+<li> AzerPro</li>
 <br/>
-<li> Təzə indi göndərilən mesajlari (yeni/köhnə) göndərə bilərsiniz</li>
+<li> AzerPro</li>
 <br/>
-<li> Təzə Qrup Sohbetinde Çağrı Yapıldığında Təstiqləmə Dialogu</li>
+<li> AzerPro</li>
 <br/>
-<li> Təzə 25 ilə 30 arasında Pin Chatları artdı</li>
+<li> AzerPro</li>
 <br/>
-<li> Temalarda axtarış zamanı problem hell oldu</li>
+<li> AzerPro</li>
 <br/>
-<li> Avtomatik Cavab / Mesaj Planlayıcısında 2-dən çox kontakt seçin zaman baglanma xetasi duzeldildi</li>
+<li> Resmi fb qurupumuz WhatsappPlusAzәrbaycaN</li>
 <br/>
-<li> Android Oreo və Pie-də Sabit Program dili  xetasi hell oldu</li>
+<li> Resmi youtube kanalimiz  Azer_H90</li>
 <br/>
-<li> Sabit Qrup Məlumatında Əlaqələrə Əlavə etmə Zamanında göndərilən Mesajları Göstər problemi duzeldildi</li>
+<li> AzerPro</li>
 <br/>
-<li> Tema serveri yenilendi daha hami temalardan rahat isdifade ede bilecek ( bunun üçün tema proqramimizi yukleyin)</li>
+<li> AzerPro</li>
 <br/>
 <li> Antiban yenilendi</li>
 <br/>
