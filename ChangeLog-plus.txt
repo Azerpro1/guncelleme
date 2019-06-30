@@ -1,44 +1,18 @@
-{"version_code":451214,"content":"
-<p>versiya: 7.00</p>
-<p>V7.00</p>
+{"version_code":451215,"content":"
+<p>versiya: 7.10</p>
+<p>V7.10</p>
 <br/>
-<li> AzerPro whatsappi yenilemek ucun saytimiza kecid edin</li>
+<li> Anti-Ban full</li>
 <br/>
-<li> Təzə baza 2.19.17</li>
+<li> Çox vacib. Lütfən Təlimatlari oxuyun</li>
+<li> 1-Lütfən mesajlarinizi yedəkləyin</li>
+<li> 2-AzerPro 7.00 silin</li>
+<li> 3-AzerPro 7.10 yükləyib qurun</li>
+<li> Beləcə nömrəniz gələcəkdə bloklanmayacaq</li>
 <br/>
-<li> Təzə emojilər əlavə edildi (evvelki xətalar düzəldilib)</li>
+<li> Bəzi problemlər həll oldu</li>
 <br/>
-<li> 100% Antiban</li>
-<br/>
-<li> AzerPro</li>
-<br/>
-<li> AzerPro</li>
-<br/>
-<li> AzerPro</li>
-<br/>
-<li> AzerPro</li>
-<br/>
-<li> AzerPro</li>
-<br/>
-<li> AzerPro</li>
-<br/>
-<li> AzerPro</li>
-<br/>
-<li> AzerPro</li>
-<br/>
-<li> AzerPro</li>
-<br/>
-<li> AzerPro</li>
-<br/>
-<li> Resmi fb qurupumuz WhatsappPlusAzәrbaycaN</li>
-<br/>
-<li> Resmi youtube kanalimiz  Azer_H90</li>
-<br/>
-<li> AzerPro</li>
-<br/>
-<li> AzerPro</li>
-<br/>
-<li> Antiban yenilendi</li>
+<li> Mod by AzerPro</li>
 <br/>
 <li> ALLAH tekdir ondan qeyrisi yoxdur ;)</li>
 <br/>
