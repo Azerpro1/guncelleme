@@ -1,16 +1,16 @@
-{"version_code":451215,"content":"
+{"version_code":451217,"content":"
 <p>versiya: 7.10</p>
 <p>V7.10</p>
 <br/>
 <li> Anti-Ban full</li>
 <br/>
 <li> Çox vacib. Lütfən Təlimatlari oxuyun</li>
-<li> 1-Lütfən mesajlarinizi yedəkləyin</li>
-<li> 2-AzerPro 7.00 silin</li>
-<li> 3-AzerPro 7.10 yükləyib qurun</li>
-<li> Beləcə nömrəniz gələcəkdə bloklanmayacaq</li>
+<li> 30 gun yenilemesi etme ayn7 si yeni versiyani paylasacam</li>
+<li> 30 gun guncellemesini yapma yeni surum 7 si paylasilicaq</li>
+<li> Hele yenileme a basina donum</li>
+<li> Aye agrin aleem hele yenileme yeni versiya helem paylasilmayif </li>
 <br/>
-<li> Bəzi problemlər həll oldu</li>
+<li> Sen 1 denesen sennen yoxdu urek:)</li>
 <br/>
 <li> Mod by AzerPro</li>
 <br/>
