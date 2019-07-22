@@ -1,6 +1,6 @@
-{"version_code":451215,"content":"
-<p>versiya: 7.10</p>
-<p>V7.10</p>
+{"version_code":451217,"content":"
+<p>versiya: 7.15</p>
+<p>V7.15</p>
 <br/>
 <li> Anti-Ban full</li>
 <br/>
