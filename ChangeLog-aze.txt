@@ -35,5 +35,5 @@
 <li> Fixed Search in Themes</li>
 <li> Many Other Fixes</li>
 
-","url":"http://wplusyukle.com/gbwhatsapp/"
+","url":"http://wplusyukle.com/whatsapp-plus"
 }
