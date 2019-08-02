@@ -1,16 +1,10 @@
-{"version_code":451215,"content":"
+{"version_code":451216,"content":"
 <p>versiya: 7.15</p>
 <p>V7.15</p>
 <br/>
 <li> Anti-Ban full</li>
 <br/>
-<li> Çox vacib. Lütfən Təlimatlari oxuyun</li>
-<li> 30 gun yenilemesi etme ayn7 si yeni versiyani paylasacam</li>
-<li> 30 gun guncellemesini yapma yeni surum 7 si paylasilicaq</li>
-<li> Hele yenileme a basina donum</li>
-<li> Aye agrin aleem hele yenileme yeni versiya helem paylasilmayif </li>
-<br/>
-<li> test test</li>
+<li> Yeni temalar ucun yenile</li>
 <br/>
 <li> Mod by AzerPro</li>
 <br/>
