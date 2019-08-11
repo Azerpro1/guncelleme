@@ -1,0 +1,17 @@
+{"version_code":452666,"content":"
+
+
+<p><b>ملاحظة:</b></p>
+
+<li>هذه الرسالة بغرض التجربة</li>
+<li>شكراً لإستخدامك واتساب برو :)</li>
+
+
+<p><b>Note:</b></p>
+
+<li>This Message is for Test</li>
+<li>Thank You For Using WAPro :)</li>
+
+
+","url":"http://wassemsy.com/wapro/index.php"
+}
