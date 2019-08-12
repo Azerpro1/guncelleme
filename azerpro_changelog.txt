@@ -1,10 +1,10 @@
 {"version_code":452667,"content":"
 
 
-<p><b>ملاحظة:</b></p>
+<p><b>Qeyd:</b></p>
 
-<li>هذه الرسالة بغرض التجربة</li>
-<li>شكراً لإستخدامك واتساب برو :)</li>
+<li>Yenile</li>
+<li>test :)</li>
 
 
 <p><b>Note:</b></p>
