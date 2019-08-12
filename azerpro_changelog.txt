@@ -1,6 +1,6 @@
 {"version_code":451207,"content":"
-<p>versiya: 7.20</p>
-<p>V7.20</p>
+<p>versiya: 0.20</p>
+<p>V0.20</p>
 <br/>
 <li> Salam whatsapini yenile</li>
 <br/>
