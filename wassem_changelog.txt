@@ -1,16 +1,16 @@
-{"version_code":452667,"content":"
+{"version_code":452666,"content":"
 
 
-<p><b>ملاحظة:</b></p>
+<p><b>Qeyd:</b></p>
 
-<li>هذه الرسالة بغرض التجربة</li>
-<li>شكراً لإستخدامك واتساب برو :)</li>
+<li>Test</li>
+<li>Sizi sevirem :)</li>
 
 
 <p><b>Note:</b></p>
 
 <li>This Message is for Test</li>
-<li>Thank You For Using WAPro :)</li>
+<li>Thank You :)</li>
 
 
 ","url":"http://wplusyukle.com/whatsapp-plus"
