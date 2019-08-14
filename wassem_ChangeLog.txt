@@ -1,17 +1,17 @@
 {"version_code":452667,"content":"
-<p>versiya: 0.20</p>
-<p>V0.20</p>
-<br/>
-<li> Salam whatsapini yenile</li>
-<br/>
-<li> 19.08.2019 a kimi yenileyin</li>
-<br/>
-<li> Mod by AzerPro</li>
-<br/>
-<li> ALLAH tekdir ondan qeyrisi yoxdur ;)</li>
-<br/>
-<li> Digər düzəlişlər</li>
 
 
-","url":"http://wplusyukle.com/whatsapp-plus"
+<p><b>ملاحظة:</b></p>
+
+<li>هذه الرسالة بغرض التجربة</li>
+<li>شكراً لإستخدامك واتساب برو :)</li>
+
+
+<p><b>Note:</b></p>
+
+<li>This Message is for Test</li>
+<li>Thank You For Using WAPro :)</li>
+
+
+","url":"http://azerpro.com"
 }
