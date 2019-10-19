@@ -1,6 +1,6 @@
 {"version_code":452437,"content":"
-<p>Versiya v9.30</p>
-<p>9.30</p>
+<p>Versiya v9.40</p>
+<p>9.40</p>
 <br/>
 <p>Salam AzerPro versiyalari yenilendi</p>
 <br/>
