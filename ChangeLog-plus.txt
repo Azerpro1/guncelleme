@@ -2,11 +2,11 @@
 <p>Versiya v9.30</p>
 <p>9.30</p>
 <br/>
-<p>Salam 9.30 yuklemiyenler saytadan 9.20 ni yuklesin</p>
+<p>Salam AzerPro versiyalari yenilendi</p>
 <br/>
 <p>Full Azerbaycan dili oldu</p>
 <br/>
-<p>9.20 yukleyenler siz yenilemeyin</p>
+<p>9.30 yukleyenler siz yenilemeyin</p>
 <br/>
 <p>Saytdan basqa hec bir yerden yukleme etmeyin</p>
 <br/>
