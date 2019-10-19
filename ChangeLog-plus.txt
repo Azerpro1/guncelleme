@@ -4,15 +4,15 @@
 <br/>
 <p>Salam AzerPro versiyalari yenilendi</p>
 <br/>
-<p>Full Azerbaycan dili oldu</p>
+<p>Full Azərbaycan dili oldu</p>
 <br/>
 <p>Zəhmət olmasa saytimizdan yükləyin</p>
 <br/>
-<p>Saytdan basqa hec bir yerden yukleme etmeyin</p>
+<p>Saytdan başqa heç bir yerdən yükləmə etməyin</p>
 <br/>
 <p>code by AzerPro</p>
 <br/>
-<p>yayim wplusyukle.com</p>
+<p>Rəsmi yayim wplusyukle.com</p>
 
 
 ","url":"http://wplusyukle.com/whatsapp-plus"
