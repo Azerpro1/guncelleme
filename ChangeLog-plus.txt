@@ -1,12 +1,12 @@
-{"version_code":452436,"content":"
-<p>Versiya v9.30</p>
-<p>9.30</p>
+{"version_code":452437,"content":"
+<p>Versiya v9.40</p>
+<p>9.40</p>
 <br/>
 <p>Salam AzerPro versiyalari yenilendi</p>
 <br/>
-<p>Full Azərbaycan dili oldu</p>
+<p>Baza vaxti uzadildi</p>
 <br/>
-<p>Zəhmət olmasa saytimizdan yükləyin</p>
+<p>son isdifade tarixi artirildi</p>
 <br/>
 <p>Saytdan başqa heç bir yerdən yükləmə etməyin</p>
 <br/>
