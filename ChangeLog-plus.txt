@@ -1,4 +1,4 @@
-{"version_code":452437,"content":"
+{"version_code":452436,"content":"
 <p>Versiya v9.40</p>
 <p>9.40</p>
 <br/>
