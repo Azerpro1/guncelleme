@@ -1,1 +1,1 @@
-{'num':'1', 'msgs':'\nTest!\nIf you paid for it, you have been scammed!\n\nDo NOT buy it again, when an UPDATE is available you will get a message automatically.\nNo need to buy it\n'}
+{'num':'1', 'msgs':'\nSalam!\nMenim proqramimi isdifade etdiyin cun tesekkur edirem!\n\nAzerPro+ lar Pulsuzdur, Bir Yenileme olduqda http://wplusyukle.com/whatsapp-azerpro saytina elave edilir.\nProqramlarimiz pulsuzdur. Hormetle AzerPro\n'}
