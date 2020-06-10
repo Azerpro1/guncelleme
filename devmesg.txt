@@ -1,1 +1,1 @@
-{'num':'2', 'msgs':'\nSalam!\nMenim proqramimi isdifade etdiyin cun tesekkur edirem!\n\nAzerPro+ lar Pulsuzdur, Bir Yenileme olduqda http://wplusyukle.com/whatsapp-azerpro saytina elave edilir.\nProqramlarimiz pulsuzdur. Hormetle AzerPro\n'}
+{'num':'1', 'msgs':'\nSalam!\nMenim proqramimi isdifade etdiyin cun tesekkur edirem!\n\nAzerPro+ lar Pulsuzdur, Bir Yenileme olduqda http://wplusyukle.com/whatsapp-azerpro saytina elave edilir.\nProqramlarimiz pulsuzdur. Hormetle AzerPro\n'}
