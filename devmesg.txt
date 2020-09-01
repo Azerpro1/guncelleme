@@ -1,1 +1,1 @@
-{'num':'1', 'msgs':'\nYeniləmə olduqda saytımızdan yükləyin daima sizinlə AzerPro MoDs\n'}
+{'num':'3', 'msgs':'\nYenileme olduqda saytdan yukleyin\n\nBizi secdiyiniz ucun tesekkur edirik\n' , 'dli':'https://wplusyukle.com/whatsapp-azerpro'}
