@@ -1,1 +1,1 @@
-{'ver1':'6', 'ver2':'80'}
+{'ver1':'15', 'ver2':'00', 'ver3':'\n[Important Update] Please Download And Install Latest Version 10.80 To Keep Your WhatsApp Working Well\n', 'dli':'https://wplusyukle.com/whatsapp-azerpro/'}
