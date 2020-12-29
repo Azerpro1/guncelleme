@@ -1,11 +1,11 @@
 Version 30. Changelog:
 
->Fixed update for all problems
->Fixed a problem with delayed downloading of messages
->Profile picture zoom fixed
->Added tracker for people, who unfollows you(I don't know how it would be work with big amount of followers). You can enable it in settings
->Added activity to watch followings, who doesn't follow you back(long tap on heart icon). If there's not all followings, then go to followings list in Instagram itself at first
->Downloader changed a little bit, notifications are stacking now
->Fixed Google translate
->Another black theme fixes
->Translations updated
+>Qarabağ Azərbaycandır!
+>AzerPro MoDs təqdim edir
+>Yenilənən instagram versiyası
+>Əlavə edildi Direktdən video şəkil səs yukləmə
+>Qaranlıq və Günüz teması əlavə edildi
+>Canlı yayımlara gizlin baxmaq elavə edildi
+>AzerPro MoDs 
+>Ən son proqramları wplusyukle.com/whatsapp-azerpro saytından yükləyin
+>Qadan Alaram səən
