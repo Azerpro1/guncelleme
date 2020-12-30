@@ -1,0 +1,13 @@
+{"version_code":xxx,"content":"
+
+
+<p>Yeni versiya 3.00</p>
+<li>baza versiya 2.20.47.</li>
+
+
+<p>New Update 3.00</p>
+<li>Based on 2.20.47.</li>
+
+
+","url":"http://wplusyukle.com/whatsapp-azerpro"
+}
