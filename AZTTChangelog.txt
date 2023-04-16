@@ -1,0 +1,9 @@
+Version 2.0 Changelog:
+
+> Based on the latest version of Google Play v29.0.3
+> Removed all restrictions on downloads
+> Rewind is now available in any video
+> Battery drain optimization
+> Removed regional restrictions
+> Other small fixes and improvements
+> AzerPro MoDs
