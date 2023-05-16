@@ -1,1 +1,1 @@
-{'ver1':'5', 'ver2':'00', 'ver3':'\n[Base] 278.0.0.21.117\n\n[Fixed] Codes improve \n' , 'dli':'https://wplusyukle.com/insta-azerpro'}
+{'ver1':'5', 'ver2':'10', 'ver3':'\n[Base] 278.0.0.21.117\n\n[Fixed] Codes improve \n' , 'dli':'https://wplusyukle.com/insta-azerpro'}
