@@ -1,1 +1,1 @@
-{'ver1':'25', 'ver2':'00', 'ver3':'\n• [Anti-Ban Yenileme].\n• Son isdifade vaxtı uzadıldı.\n• Yenilikler ucun sayta daxil ol.\n• \n' , 'dli':'https://wplusyukle.com/whatsapp-azerpro'}
+{'ver1':'25', 'ver2':'01', 'ver3':'\n• [Anti-Ban Yenileme].\n• [Versiya:25.00].\n• Son isdifade vaxtı uzadıldı.\n• Yenilikler ucun sayta daxil ol.\n• \n' , 'dli':'https://wplusyukle.com/whatsapp-azerpro'}
