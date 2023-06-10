@@ -1,1 +1,1 @@
-{'ver1':'17', 'ver2':'40', 'ver3':'\n[Important Update] Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n', 'dli':'https://wplusyukle.com/tr/gbwhatsapp-guncelleme'}
+{'ver1':'30', 'ver2':'45', 'ver3':'\n[Important Update] Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n', 'dli':'https://wplusyukle.com/tr/gbwhatsapp-guncelleme'}
