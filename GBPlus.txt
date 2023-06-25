@@ -1,1 +1,1 @@
-{'ver1':'17', 'ver2':'40', 'ver3':'\n[Important Update] Expired to Base\n', 'dli':'https://bit.ly/3CJnjXG'}
+{'ver1':'17', 'ver2':'52', 'ver3':'\n[Important Update] Status open crash fixed\n', 'dli':'https://bit.ly/3CJnjXG'}
