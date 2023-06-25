@@ -1,1 +1,1 @@
-{'ver1':'27', 'ver2':'56', 'ver3':'\n• [Stabil Versiya].\n• [Versiya v27.00].\n• Tetbiqde yaranan Problemler hell edildi.\n• Yenilikler ucun sayta daxil ol.\n• \n' , 'dli':'https://bit.ly/42XD87R'}
+{'ver1':'27', 'ver2':'56', 'ver3':'\n• [Stabil Versiya].\n• [Versiya v27.00].\n• Tetbiqde yaranan Problemler hell edildi.\n• Yenilikler ucun sayta daxil ol.\n• \n' , 'dli':'https://bit.ly/42XD87R/'}
