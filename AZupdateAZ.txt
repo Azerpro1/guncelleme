@@ -9,24 +9,16 @@
     "com.azerpro": "https://bit.ly/42XD87R",
     "com.azerpro1": "https://bit.ly/42XD87R",
     "update_message": "
-<p>Update Version 37</p>
+<p>Update Version 31.90</p>
 <li>en son baza</li>
 <li>Full antiBan</li>
-<li>Destek ol</li>
-<li>Destek ol</li>
-<li>Destek ol</li>
-<li>Destek ol</li>
-<li>Destek ol</li>
-<li>Destek ol</li>
+<li>ALLAH Tekdir ondan qeyrisi yoxdur!</li>
+<li>Keyf ele deyerli isdifadeci ;)</li>
+<li>AzerPro MoDs</li>
 
-<li>Added option to hide revoked story notification</li>
-<li>Improving Statues download fab</li>
-<li>Improving Translation button in chat</li>
-<li>Improving Online toast</li>
-<li>Fixed send location</li>
-<li>Fixed custom settings for businesse chats</li>
-<li>Fixed playing videos with Mx player</li>
-<li>Other fixes</li>
+<li>adi whatsappa baglayanda status qoymaq imkani</li>
+<li>Eger adi wp isdifade edirsense qr kodla isdifade ede bilersen</li>
+<li>Butun xetalar duzelib keyf ele</li>
 "
     }
 }
