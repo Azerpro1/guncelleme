@@ -1,6 +1,6 @@
 {
   "Gold": {
-    "update_code": "29",
+    "update_code": "30",
     "reminder_time": "3",
     "update_version": "v32",
     "com.whatsapp": "https://bit.ly/42XD87R",
