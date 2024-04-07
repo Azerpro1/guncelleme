@@ -9,7 +9,7 @@
     "com.azerpro": "https://bit.ly/42XD87R",
     "com.azerpro1": "https://bit.ly/42XD87R",
     "update_message": "
-<p>Update Version 31.90</p>
+<p>Update Version 3190</p>
 <li>en son baza</li>
 <li>Full antiBan</li>
 <li>ALLAH Tekdir ondan qeyrisi yoxdur!</li>
