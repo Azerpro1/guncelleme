@@ -1,8 +1,8 @@
 {
   "Gold": {
     "update_code": "29",
-    "reminder_time": "1",
-    "update_version": "v33",
+    "reminder_time": "3",
+    "update_version": "v32",
     "com.whatsapp": "https://bit.ly/42XD87R",
     "com.azwhatsapp": "https://bit.ly/42XD87R",
     "com.azwhatsapp2": "https://bit.ly/42XD87R",
